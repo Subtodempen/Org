@@ -1,0 +1,5 @@
+* Newtons law of restituion
+$$
+e = \frac{\text{Speed of The Seperation}}{\text{Speed of The Approach}}
+$$
+
