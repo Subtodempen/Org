@@ -1,0 +1,32 @@
+* Database Concepts
+An entity is a catogory of object which data is to be recorded in. Enities can hold attributes
+which is the actual data being held.
+
+To Define an entity is SQL:
+#+begin_src sql
+CREATE TABLE entity{
+   attribute_1 type,
+   attribute_2 type,
+   ...
+   attribute_n type
+}
+#+end_src sql
+
+** Flat File Databases
+Flat Files databases consist of a single file; hold a single entity in a structured manner and have no
+relationships, constraints or indexing.
+
+** Entity Identifiers
+Identifiers uniquely identifies an entity. In a relational database, these are known as a primary key.
+Typical attributes wont serve as a primary key as they are not necessarily unique
+so it is up the database engine to create and manage unqiue Primary Keys for indexing.
+
+*** Secondary Keys
+entities More then one index key might be needed to identify entities, for example they can be searched with
+surname or by any other attribute. So a secondary key is any attribute that can be used to identify
+an entity.
+
+
+
+
+

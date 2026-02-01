@@ -1,0 +1,13 @@
+* Database Concepts
+An entity is a catogory of object about which data is to be recorded. Enities can hold attributes
+which is the actual data being held.
+
+To Define an entity is SQL:
+#+begin_src sql
+CREATE TABLE entity{
+   attribute_1 type,
+   attribute_2 type,
+   ...
+   attribute_n type
+}
+#+end_src sql
