@@ -22,9 +22,9 @@ Typical attributes wont serve as a primary key as they are not necessarily uniqu
 so it is up the database engine to create and manage unqiue Primary Keys for indexing.
 
 *** Secondary Keys
-entities More then one index key might be needed to identify entities, for example they can be searched with
-surname or by any other attribute. So a secondary key is any attribute that can be used to identify
-an entity.
+Entities can be indexed in other ways then just primary keys, an attribute such
+as surname or username can be used to identify entities. So a secondary key is any
+attribute that can be used to identify an entity.
 
 
 
