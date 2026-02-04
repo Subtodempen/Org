@@ -1,0 +1,41 @@
+% Created 2026-02-04 Wed 12:44
+% Intended LaTeX compiler: pdflatex
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\date{\today}
+\title{}
+\hypersetup{
+ pdfauthor={},
+ pdftitle={},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 30.2 (Org mode 9.7.11)}, 
+ pdflang={English}}
+\begin{document}
+
+\tableofcontents
+
+\section{Direction Vectors}
+\label{sec:org20362d0}
+
+\(r = O + tD\)  Is the general equation of a ray. If you want to know if a point belongs on a line you can substitute it as \(r\) and find the appropiate value of \(t\).
+So lets assume, \(\vec{O} = (2, 1, 1) \text{ and } \vec{D} = (1, 1, 1)\) and we want to know if the point \(\vec{r} = (3, 2, 2)\) lies on the line. First we substite
+our value of \(r\) to get: \((3, 2, 2) = (2, 1, 1) + t(1, 1, 1)\), \(t = 1\) so our point lies on the line.
+\subsection{Simplifying Direction Vectors}
+\label{sec:org0368b64}
+The magnitude of a direction vector doesnt matter only the direction does, so they are typically represented as unit vectors to keep our values of \(t\) clean.
+\subsection{Parametric Form}
+\label{sec:org9e9016f}
+By letting \(r = (x, y ,z)\) we can create three seperate equations: \((x, y, z) = (a_1, a_2, a_3) + t(b_1, b_2, b_3)\) to give use three similatenous equations like so:
+\(r_n = a_n + tb_n\)
+\end{document}
