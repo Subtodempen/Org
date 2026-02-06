@@ -4,9 +4,22 @@ $r = O + tD$  Is the general equation of a ray. If you want to know if a point b
 So lets assume, $\vec{O} = (2, 1, 1) \text{ and } \vec{D} = (1, 1, 1)$ and we want to know if the point $\vec{r} = (3, 2, 2)$ lies on the line. First we substite
 our value of $r$ to get: $(3, 2, 2) = (2, 1, 1) + t(1, 1, 1)$, $t = 1$ so our point lies on the line.
 
+*** Pythagorising
+We can use the pythagoras theorem in 3D to solve questions involving the distance between two vectors;
+
+**** Example:
+If $\vec{r} = (-1, 0, 3) + \lambda (1, 1, 0)$ Then find the cooridinates on the line that are a distance of $3$ away from $(3, 4, 4)$.
+
 ** Simplifying Direction Vectors
 The magnitude of a direction vector doesnt matter only the direction does, so they are typically represented as unit vectors to keep our values of $t$ clean.
 
 ** Parametric Form
-By letting $r = (x, y ,z)$ we can create three seperate equations: $(x, y, z) = (a_1, a_2, a_3) + t(b_1, b_2, b_3)$ to give use three similatenous equations like so:
-$r_n = a_n + tb_n$
+By letting $r = (x, y ,z)$ we can create three seperate equations: $(x, y, z) = (a_1, a_2, a_3) + t(b_1, b_2, b_3)$ to give us three similatenous equations like so:
+$r_n = a_n + tb_n$, We can then solve each equation for $t$ and then set them equal. Like so
+#+BEGIN_LATEX
+\begin{align*}
+& r_n = a_n + tb_n \\
+& r_n - a_n = tb_n \\
+& \frac{r_n - a_n}{b_n} = t 
+\end{align*}
+#+END_LATEX
