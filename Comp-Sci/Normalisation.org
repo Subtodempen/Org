@@ -1,0 +1,17 @@
+* Database Normalisation
+The process of organizing data in a relational database to reduce redunancy and improve data integrity.
+
+** 1NF normalisation
+To achieve the first level of data normalisation a table must adhere to the following rule:
+  - All attribute names must be unique.
+  - No data is unnecessarily duplicated.
+  - Each entity needs a primary key.
+  - Each attribute should hold a single value.
+
+
+** 2NF Normalisation
+To have a database in 2NF these rules must be followed:
+  - Already be in 1NF
+  - Contains no partial dependencies.
+A partial dependency is when attributes dont depend fully on a primary key and instead part of it as a compisite.
+
