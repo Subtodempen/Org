@@ -1,0 +1,58 @@
+* SQL Programming
+SQL is a declarative languege used for querying and updating tables in relational
+databases. It can also be used to create tables.
+
+** SELECT
+Select is used to extract a collection of records from a given table.
+#+begin_src sql
+  SELECT fields FROM table WHERE condition; 
+#+end_src
+
+** JOIN
+A Join is used to combine rows from multiple tables based on a related column.
+#+begin_src sql
+  SELECT fields
+  FROM table_1
+  JOIN table_2
+  ON condition;
+#+end_src
+
+So if $table_1$ has $3$ rows and table_2 has $4$ rows you dont get a table
+with $7$ rows instead you get a table full of matching rows.
+
+** Alter
+The ALTER TABLE statement is used to add, delete or modify fields in an
+existing table.
+
+*** Add a column
+#+begin_src sql
+  ALTER TABLE table
+  ADD attribute type;
+#+end_src
+
+*** Delete a column
+#+begin_src sql
+  ALTER TABLE table
+  DROP COLUMN column;
+#+end_src
+
+*** Change Type
+#+begin_src sql
+  ALTER TABLE table
+  MODIFY COLUMN attribute new_type;
+#+end_src
+
+** Update
+The update statement is used to update a record in a database.
+#+begin_src sql
+  UPDATE table
+  SET field_1 = value_1, field_n = value_n
+  WHERE condition;
+#+end_src
+
+** Delete
+Delete is used to delete a record from a table.
+#+begin_src sql
+  DELETE FROM table
+  WHERE condition;
+#+end_src

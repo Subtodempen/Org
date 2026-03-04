@@ -1,0 +1,9 @@
+* SQL Programming
+SQL is a declarative languege used for querying and updating tables in relational
+databases. It can also be used to create tables.
+
+** SELCECT
+Select is used to extract a collection of records from a given table.
+#+begin_src sql
+  SELECT fields FROM table WHERE condition; 
+#+end_src

@@ -13,5 +13,32 @@ To achieve the first level of data normalisation a table must adhere to the foll
 To have a database in 2NF these rules must be followed:
   - Already be in 1NF
   - Contains no partial dependencies.
-A partial dependency is when attributes dont depend fully on a primary key and instead part of it as a compisite.
+A partial dependency is when attributes dont depend fully on a primary key
+and instead part of it as a compisite.
 
+** 3NF Normalisation
+For a table to be in 3NF it must have no non-key dependencies. So this is when
+a non-key record depends on another non-key record. Which is different to 2NF
+where this only happens partially.
+
+* The Importance Of Normalisation
+
+** No Data Redundancy
+Reduntant data appears in more than one table, which can cause innefecincy and
+inconsistiny.
+
+** Easier to Mantain
+**** Data Integrity
+DI is mantained since there is no unnecessary duplication of data.
+
+** Faster Sorting and Searching
+Normalisation produces smaller entitys with fewer fields, which can be
+searched, sorted and indexed faster. Futhermore the database will also
+take up less space.
+
+** Deleting Records
+A properly defined entity will not allow records on the "one" side of
+a one-to-many relationship be deleted as it would create orphans.
+
+For a example a customer who has unpaid transactions can not be removed
+while it still has deps.
