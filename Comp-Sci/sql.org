@@ -2,6 +2,17 @@
 SQL is a declarative languege used for querying and updating tables in relational
 databases. It can also be used to create tables.
 
+** Create
+To Define an entity is SQL:
+#+begin_src sql
+CREATE TABLE entity{
+   attribute_1 type,
+   attribute_2 type,
+   ...
+   attribute_n type
+}
+#+end_src sql
+
 ** SELECT
 Select is used to extract a collection of records from a given table.
 #+begin_src sql

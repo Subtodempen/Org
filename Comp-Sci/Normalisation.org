@@ -18,7 +18,7 @@ and instead part of it as a compisite.
 
 ** 3NF Normalisation
 For a table to be in 3NF it must have no non-key dependencies. So this is when
-a non-key record depends on another non-key record. Which is different to 2NF
+a non-key attribute depends on another non-key attribute. Which is different to 2NF
 where this only happens partially.
 
 * The Importance Of Normalisation
