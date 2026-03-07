@@ -1,7 +1,9 @@
 *** DONE Finish Coote Further Maths Homework
 SCHEDULED: <2026-03-03 Tue>
 
-*** TODO Revise CP1 Transformations 
+*** TODO Revise CP1 Transformations
+Do ch1 and ch2 make notes if needed 
+
 SCHEDULED: <2026-03-06 Fri>
 
 *** DONE Set up anki on Laptop and PC
@@ -14,10 +16,13 @@ Do mixed ex questions and recap
 *** DONE Finish compuetr science DB
 SCHEDULED: <2026-03-04 Wed>
 
+*** TODO Do Chem Presentation
+SCHEDULED: <2026-03-09 Mon>
+
 **** TODO Make anki flash cards aswell on DBs
 SCHEDULED: <2026-03-06 Fri>
 
-**** TODO Do questions on DBS
+**** DONE Do questions on DBS
 SCHEDULED: <2026-03-05 Thu>
 
 *** TODO Learn Redox reactions
