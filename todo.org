@@ -17,6 +17,7 @@ SCHEDULED: <2026-03-12 Thu>
 
 *** TODO Maths past paper
 SCHEDULED: <2026-03-13 Fri>
+Schedule another for next week!
 
 
 *** DONE Finish compuetr science DB
@@ -51,12 +52,12 @@ SCHEDULED: <2026-03-11 Wed>
 *** TODO FLASHCARDS and more questions on redox
 SCHEDULED: <2026-03-16 Mon>
 
-*** TODO Relearn and revise proof by induction topic
+*** DONE Relearn and revise proof by induction topic
 SCHEDULED: <2026-03-09 Mon>
 Learn divisibility resulst
 
 *** TODO Questions on proof by induction
-SCHEDULED: <2026-03-11 Wed>
+SCHEDULED: <2026-03-18 Wed>
 
 *** TODO questions on transofrmations
 SCHEDULED: <2026-03-16 Mon>
@@ -65,8 +66,10 @@ SCHEDULED: <2026-03-16 Mon>
 *** DONE Do Mr wood Missing homework
 SCHEDULED: <2026-03-08 Sun>
 
-*** TODO Learn Energetics
+*** DONE Learn Energetics
 SCHEDULED: <2026-03-12 Thu>
+Do weimy cook test
+
 *** TODO Question on energetics 
 SCHEDULED: <2026-03-14 Sat>
 
