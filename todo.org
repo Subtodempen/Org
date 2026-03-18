@@ -37,13 +37,16 @@ SCHEDULED: <2026-03-05 Thu>
 SCHEDULED: <2026-03-06 Fri>
 Flashcards and notes
 
-*** TODO Revise Alkanes
+*** DONE Revise Alkanes
 SCHEDULED: <2026-03-13 Fri>
 Make flashcards aswell
 
-*** TODO Alkanes mechanisms flashcards
+*** DONE Alkanes mechanisms flashcards
 SCHEDULED: <2026-03-11 Wed>
-Do nucleophilc addition + eletro substitution
+Do nucleophilc addition +
+
+*** TODO Finish alkane topics flashcards
+SCHEDULED: <2026-03-25 Wed>
 
 *** TODO Do Exercise on Binomial estimations again
 SCHEDULED: <2026-03-21 Sat>
@@ -74,7 +77,7 @@ Couldnt do question 5 on the 2024 may aslevel maths paper
 SCHEDULED: <2026-03-18 Wed>
 Do Whole mixed exercise
 
-*** TODO questions on transofrmations
+*** DONE questions on transofrmations
 SCHEDULED: <2026-03-16 Mon>
 Do mixed past paper questions
 
