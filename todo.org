@@ -61,6 +61,9 @@ SCHEDULED: <2026-03-11 Wed>
 *** TODO FLASHCARDS and more questions on redox
 SCHEDULED: <2026-03-16 Mon>
 
+*** TODO Whole chapter 7 mixed exericise
+SCHEDULED: <2026-03-20 Fri>
+
 *** DONE Relearn and revise proof by induction topic
 SCHEDULED: <2026-03-09 Mon>
 Learn divisibility resulst
