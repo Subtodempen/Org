@@ -69,7 +69,7 @@ SCHEDULED: <2026-03-20 Fri>
 SCHEDULED: <2026-03-09 Mon>
 Learn divisibility resulst
 
-*** TODO Do the exercise on root transofrmation
+*** DONE Do the exercise on root transofrmation
 SCHEDULED: <2026-03-19 Thu>
 Roots of polynomials
 
@@ -93,7 +93,7 @@ SCHEDULED: <2026-03-08 Sun>
 SCHEDULED: <2026-03-12 Thu>
 Do weimy cook test
 
-*** TODO Question on energetics 
+*** DONE Question on energetics 
 SCHEDULED: <2026-03-14 Sat>
 
 *** TODO Nucleophilic Addition revision
