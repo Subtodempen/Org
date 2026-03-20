@@ -99,8 +99,7 @@ SCHEDULED: <2026-03-14 Sat>
 *** TODO Nucleophilic Addition revision
 SCHEDULED: <2026-03-28 Sat>
 
-
-*** 
+*** TODO check chemistry spec
 *** TODO Plan the rest of organic chem
 *** TODO Print off my risk assesment
 *** TODO Have a look at group theory
