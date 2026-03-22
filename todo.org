@@ -12,14 +12,25 @@ SCHEDULED: <2026-03-04 Wed>
 SCHEDULED: <2026-03-05 Thu>
 Do mixed ex questions and recap  
 
-*** TODO Revise logarithms
+*** DONE Revise logarithms
 SCHEDULED: <2026-03-20 Fri>
 Do whole mixed exercise 
 
 *** TODO Maths past paper
-SCHEDULED: <2026-03-13 Fri>
+SCHEDULED: <2026-03-27 Fri>
 Schedule another for next week!
 
+*** TODO Chemistry organic past paper
+SCHEDULED: <2026-03-23 Mon>
+
+*** TODO Chemistry Physical + inorganic past paper
+SCHEDULED: <2026-03-29 Sun>
+
+*** TODO Start Revising the electronegitivity topic 
+SCHEDULED: <2026-03-25 Wed>
+
+*** Kinetics chapter
+SCHEDULED: <2026-03-28 Sat>
 
 *** DONE Finish compuetr science DB
 SCHEDULED: <2026-03-04 Wed>
@@ -29,7 +40,7 @@ SCHEDULED: <2026-03-09 Mon>
 
 **** DONE Make anki flash cards aswell on DBs
 SCHEDULED: <2026-03-06 Fri>
-
+w
 **** DONE Do questions on DBS
 SCHEDULED: <2026-03-05 Thu>
 
@@ -43,13 +54,16 @@ Make flashcards aswell
 
 *** DONE Alkanes mechanisms flashcards
 SCHEDULED: <2026-03-11 Wed>
-Do nucleophilc addition +
+Do nucleophilic substition
 
-*** TODO Finish elctrophilic topics flashcards
+*** TODO Revise ozone depletion 
+SCHEDULED: <2026-03-24 Tue>
+
+*** DONE Finish elctrophilic topics flashcards
 SCHEDULED: <2026-03-18 Wed>
 And finish up alkanses loose ends
 
-*** TODO Do Exercise on Binomial estimations again
+*** DONE Do Exercise on Binomial estimations again
 SCHEDULED: <2026-03-21 Sat>
 
 
@@ -96,7 +110,25 @@ Do weimy cook test
 *** DONE Question on energetics 
 SCHEDULED: <2026-03-14 Sat>
 
-*** TODO Nucleophilic Addition revision
+*** TODO URGENT Revise Trig identities
+SCHEDULED: <2026-03-25 Wed>
+Chapter 10.3
+
+*** TODO URGENT Revise Trig Equations
+SCHEDULED: <2026-03-27 Fri>
+Chapter 10.3 and 10.4
+
+*** TODO Trig Chpater 10 summary and last exercise
+SCHEDULED: <2026-03-29 Sun>
+chaper 10.6
+
+*** TODO Whole trig chapter 10 mixed exercise
+SCHEDULED: <2026-03-31 Tue>
+
+*** TODO Questions on bearings and geometry
+SCHEDULED: <2026-03-28 Sat>
+
+*** TODO Questions on inequalities
 SCHEDULED: <2026-03-28 Sat>
 
 *** TODO check chemistry spec
