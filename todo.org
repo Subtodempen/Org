@@ -20,13 +20,22 @@ Do whole mixed exercise
 SCHEDULED: <2026-03-27 Fri>
 Schedule another for next week!
 
-*** TODO Chemistry organic past paper
-SCHEDULED: <2026-03-23 Mon>
+*** TODO [#C] Chemistry organic past paper
+SCHEDULED: <2026-03-27 Fri>
+
+*** TODO Questions on organic anylises pt1
+SCHEDULED: <2026-03-26 Thu>
+Mass spec
+
+*** TODO Questions on organinc aynlises pt2
+SCHEDULED: <2026-03-27 Fri>
+reagents etc
+
 
 *** TODO Chemistry Physical + inorganic past paper
 SCHEDULED: <2026-03-29 Sun>
 
-*** TODO Start Revising the electronegitivity topic 
+*** TODO [#A] Do questions on the periodicity subtopic
 SCHEDULED: <2026-03-25 Wed>
 
 *** Kinetics chapter
@@ -56,7 +65,7 @@ Make flashcards aswell
 SCHEDULED: <2026-03-11 Wed>
 Do nucleophilic substition
 
-*** TODO Revise ozone depletion 
+*** TODO [#A] Revise ozone depletion 
 SCHEDULED: <2026-03-24 Tue>
 
 *** DONE Finish elctrophilic topics flashcards
@@ -67,16 +76,21 @@ And finish up alkanses loose ends
 SCHEDULED: <2026-03-21 Sat>
 
 
-*** TODO Start First chem topic make notes
+*** TODO [#A] Revise The periodicity sub-sub topic
 SCHEDULED: <2026-03-25 Wed>
+Refer to spec
 
 *** DONE Questions on redox
 SCHEDULED: <2026-03-11 Wed>
 
-*** TODO FLASHCARDS and more questions on redox
-SCHEDULED: <2026-03-16 Mon>
+*** TODO Questions on oxidisation states
+SCHEDULED: <2026-03-26 Thu>
 
-*** TODO Whole chapter 7 mixed exericise
+*** TODO FLASHCARDS and more questions on redox
+SCHEDULED: <2026-03-31 Tue>
+
+
+*** DONE Whole chapter 7 mixed exericise
 SCHEDULED: <2026-03-20 Fri>
 
 *** DONE Relearn and revise proof by induction topic
@@ -87,11 +101,11 @@ Learn divisibility resulst
 SCHEDULED: <2026-03-19 Thu>
 Roots of polynomials
 
-*** TODO Learn and revise chapter 4 graphs and recipricols
+*** TODO [#C] Learn and revise chapter 4 graphs and recipricols
 SCHEDULED: <2026-03-20 Fri>
 Couldnt do question 5 on the 2024 may aslevel maths paper
 
-*** TODO Questions on proof by induction
+*** TODO [#B] Questions on proof by induction
 SCHEDULED: <2026-03-20 Fri>
 Do Whole mixed exercise
 
@@ -110,7 +124,7 @@ Do weimy cook test
 *** DONE Question on energetics 
 SCHEDULED: <2026-03-14 Sat>
 
-*** TODO URGENT Revise Trig identities
+*** TODO [#B] URGENT Revise Trig identities
 SCHEDULED: <2026-03-25 Wed>
 Chapter 10.3
 
