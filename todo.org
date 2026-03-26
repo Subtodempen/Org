@@ -20,23 +20,24 @@ Do whole mixed exercise
 SCHEDULED: <2026-03-27 Fri>
 Schedule another for next week!
 
-*** TODO [#C] Chemistry organic past paper
+*** TODO  Chemistry organic past paper
 SCHEDULED: <2026-03-27 Fri>
 
 *** TODO Questions on organic anylises pt1
-SCHEDULED: <2026-03-26 Thu>
-Mass spec
+SCHEDULED: <2026-03-29 Sun>
+Mass spec and reagants
 
-*** TODO Questions on organinc aynlises pt2
-SCHEDULED: <2026-03-27 Fri>
-reagents etc
+*** TODO Revision on bonding topic 
+SCHEDULED: <2026-03-29 Sun>
 
+*** TODO Questions on Bonding topic
+SCHEDULED: <2026-03-29 Sun>
 
 *** TODO Chemistry Physical + inorganic past paper
 SCHEDULED: <2026-03-29 Sun>
 
 *** TODO [#A] Do questions on the periodicity subtopic
-SCHEDULED: <2026-03-25 Wed>
+SCHEDULED: <2026-03-31 Tue>
 
 *** Kinetics chapter
 SCHEDULED: <2026-03-28 Sat>
@@ -65,7 +66,7 @@ Make flashcards aswell
 SCHEDULED: <2026-03-11 Wed>
 Do nucleophilic substition
 
-*** TODO [#A] Revise ozone depletion 
+*** DONE [#A] Revise ozone depletion 
 SCHEDULED: <2026-03-24 Tue>
 
 *** DONE Finish elctrophilic topics flashcards
@@ -76,7 +77,7 @@ And finish up alkanses loose ends
 SCHEDULED: <2026-03-21 Sat>
 
 
-*** TODO [#A] Revise The periodicity sub-sub topic
+*** DONE [#A] Revise The periodicity sub-sub topic
 SCHEDULED: <2026-03-25 Wed>
 Refer to spec
 
@@ -101,11 +102,11 @@ Learn divisibility resulst
 SCHEDULED: <2026-03-19 Thu>
 Roots of polynomials
 
-*** TODO [#C] Learn and revise chapter 4 graphs and recipricols
+*** DONE [#C] Learn and revise chapter 4 graphs and recipricols
 SCHEDULED: <2026-03-20 Fri>
 Couldnt do question 5 on the 2024 may aslevel maths paper
 
-*** TODO [#B] Questions on proof by induction
+*** DONE [#B] Questions on proof by induction
 SCHEDULED: <2026-03-20 Fri>
 Do Whole mixed exercise
 
