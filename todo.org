@@ -23,31 +23,31 @@ Schedule another for next week!
 *** DONE Chemistry organic past paper
 SCHEDULED: <2026-03-27 Fri>
 
-*** TODO Chemistry past paper
+*** DONE Chemistry past paper
 SCHEDULED: <2026-04-03 Fri>
 Redo 7.7 on organic minors and majors
 
-*** TODO Maths past paper
+*** DONE Maths past paper
 SCHEDULED: <2026-04-03 Fri>
 Redo Q11, 12 from year 2022 paper
 
-*** TODO Questions on organic anylises pt1
+*** DONE Questions on organic anylises pt1
 SCHEDULED: <2026-03-29 Sun>
 Mass spec and reagants
 
-*** TODO Revision on bonding topic 
+*** DONE Revision on bonding topic 
 SCHEDULED: <2026-03-29 Sun>
 
-*** TODO Questions on Bonding topic
+*** DONE Questions on Bonding topic
 SCHEDULED: <2026-03-29 Sun>
 
-*** TODO Chemistry Physical + inorganic past paper
+*** DONE Chemistry Physical + inorganic past paper
 SCHEDULED: <2026-03-29 Sun>
 
-*** TODO [#A] Do questions on the periodicity subtopic
+*** DONE [#A] Do questions on the periodicity subtopic
 SCHEDULED: <2026-03-31 Tue>
 
-*** TODO Kinetics chapter
+*** DONE Kinetics chapter
 SCHEDULED: <2026-03-28 Sat>
 
 *** DONE Finish compuetr science DB
@@ -92,10 +92,10 @@ Refer to spec
 *** DONE Questions on redox
 SCHEDULED: <2026-03-11 Wed>
 
-*** TODO Questions on oxidisation states
+*** DONE Questions on oxidisation states
 SCHEDULED: <2026-03-26 Thu>
 
-*** TODO FLASHCARDS and more questions on redox
+*** DONE FLASHCARDS and more questions on redox
 SCHEDULED: <2026-03-31 Tue>
 
 
@@ -137,29 +137,48 @@ SCHEDULED: <2026-03-14 Sat>
 SCHEDULED: <2026-03-25 Wed>
 Chapter 10.3
 
-*** TODO URGENT Revise Trig Equations
+*** DONE URGENT Revise Trig Equations
 SCHEDULED: <2026-03-28 Sat>
 Chapter 10.3 and 10.4
 
-*** TODO Trig Chpater 10 summary and last exercise
+*** DONE Trig Chpater 10 summary and last exercise
 SCHEDULED: <2026-03-29 Sun>
 chaper 10.6
 
-*** TODO Whole trig chapter 10 mixed exercise
+*** DONE Whole trig chapter 10 mixed exercise
 SCHEDULED: <2026-03-31 Tue>
 
-*** TODO Questions on bearings and geometry
+*** DONE Questions on bearings and geometry
 SCHEDULED: <2026-03-28 Sat>
 examq do 3
 
-*** TODO Questions on inequalities
+*** DONE Questions on inequalities
 SCHEDULED: <2026-03-28 Sat>
 examq do 3
 
 
-*** TODO [#D] Chapter 7 mixed exercise
+*** DONE [#D] Chapter 7 mixed exercise
 SCHEDULED: <2026-03-28 Sat>
 
+
+*** TODO Further Maths Past Paper
+SCHEDULED: <2026-04-17 Fri>
+Find topics taht are hard 
+
+*** TODO Mechanics Chapter 2
+SCHEDULED: <2026-04-17 Fri>
+Mixed exercise
+
+*** TODO Chem redo bad questions from inorganic paper
+SCHEDULED: <2026-04-17 Fri>
+Practical and redo the questions I got wrong 
+
+
+*** TODO Clear anki
+SCHEDULED: <2026-04-18 Sat>
+
+*** TODO Chem organic past paper
+SCHEDULED: <2026-04-18 Sat>
 
 *** TODO check chemistry spec
 *** TODO Plan the rest of organic chem
