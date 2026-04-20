@@ -169,17 +169,26 @@ Find topics taht are hard
 SCHEDULED: <2026-04-17 Fri>
 Mixed exercise
 
-*** TODO Chem redo bad questions from inorganic paper
+*** DONE Chem redo bad questions from inorganic paper
 SCHEDULED: <2026-04-17 Fri>
 Practical and redo the questions I got wrong 
 
 
-*** TODO Clear anki
+*** DONE Clear anki
 SCHEDULED: <2026-04-18 Sat>
+
+*** TODO rewrite mechanism flashcards 
+SCHEDULED: <2026-04-22 Wed>
 
 *** TODO Chem organic past paper
-SCHEDULED: <2026-04-18 Sat>
+SCHEDULED: <2026-04-21 Tue>
 
+*** TODO Chem inorganic past paper
+SCHEDULED: <2026-04-21 Tue>
+
+*** TODO Maths 2023 May past paperr finish 
+SCHEDULED: <2026-04-22 Wed>
+s
 *** TODO check chemistry spec
 *** TODO Plan the rest of organic chem
 *** TODO Print off my risk assesment
